@@ -1,0 +1,26 @@
+.DetailSectionMainContainer {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+}
+.DetailSectionHeaderContent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-content: flex-start;
+  margin-top: 16px;
+}
+.DetailSectionBodyContent{
+  margin-top: 24px;
+  line-height: 1.8;
+}
+.DetailBookImageContainer {
+  width: 35% !important;
+}
+.DetailBookDescriptionContainer {
+  width: 65% !important;
+}
+.DetailBookImage {
+  max-width: 150px;
+  max-height: 350px;
+}

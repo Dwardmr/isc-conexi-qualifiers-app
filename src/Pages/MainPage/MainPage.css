@@ -1,0 +1,26 @@
+.MainPageHeaderContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: center;
+  margin-bottom: 16px;
+}
+.MainPageHeaderTitle{
+  width: 50%;
+}
+.MainPageHeaderCTA{
+  width: 50%;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  padding-right: 5%;
+}
+.BookListTitle {
+  margin-top: 48px !important;
+}
+.ListContainer {
+  display: flex;
+  direction: column;
+}
